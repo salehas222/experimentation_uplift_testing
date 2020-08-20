@@ -1,6 +1,6 @@
 # experimentation_uplift_testing
 ### Introduction 
-Form Feb 2019 to April 2019, Chip's location has been changed for three trail store 77, 86, 88. Goal of the project is to find out the control store and trail store with control store based on below three matrics.
+Form Feb 2019 to April 2019, Chip's location has been changed for three trail store 77, 86, 88. Goal of the project is to find out the control store and trail store with control store based on below three matrices.
 * Monthly sales of the store
 * Monthly average number of customer
 * Average transaction per customer 
