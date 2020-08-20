@@ -26,16 +26,16 @@ Find out control store which has same behavior as a trail store during June2018 
 
 ### Result 
 After carefully reviewing heatmap correlation and absolute distance over 3 matrices, following control stores have been selected.
-`Control stores`: 157,229,233
-<strong> Monthly sales comparision of trail store and control store during Trail period </strong>
-<img src="./Capture.PNG" />
+`Control stores`: 157,229,233 <br><br>
+<strong> Monthly sales comparision of trail store and control store during Trail period </strong><br>
+<img src="https://github.com/salehas222/experimentation_uplift_testing/blob/master/images/Capture.PNG">
+<br>
+<strong>Monthly number of customer for trail store and control store during Trail period</strong> <br>
 
-<strong>Monthly number of customer for trail store and control store during Trail period</strong>
-
-<img src="./Capture1.PNG" />
-
+<img src="https://github.com/salehas222/experimentation_uplift_testing/blob/master/images/Capture1.PNG">
+<br>
 <strong> Monthly avg. transcation per customer </strong>
- <img src="./Capture2.PNG" />
+<img src="https://github.com/salehas222/experimentation_uplift_testing/blob/master/images/Capture2.PNG">
   
 ### Conclusion
 
