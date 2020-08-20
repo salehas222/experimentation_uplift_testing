@@ -51,7 +51,7 @@ Monthly sale was decreased from 913.2 to 848.2 Dollars
 No of customer was decreased by nine. At the starting of the Feb. No. of customer was 139
 intially no. of tx per customer was 1.29 which was increased to 1.20
 
-<strong>Trail Store 88 - Positive<strong>
+<strong>Trail Store 88 - Positive</strong>
 
 Monthly sale was increased by 69 Dollars Which was the highest among all the trail store
 No of customer was increased 154 to 162
